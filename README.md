@@ -1,3 +1,3 @@
-# hi-world
-Repository de biz kurduk.
-:england:
+# levha işleme
+object detectin example.
+:stop:
